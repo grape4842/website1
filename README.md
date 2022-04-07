@@ -1,5 +1,6 @@
 # website1
-
+# 코드를 사용하실 경우 해당 github의 주소(https://github.com/jo-gunhee/website1)를 꼭 표시해주세요
+# If you use the code, please indicate the address of the github (https://github.com/jo-gunhee/website1)
 
 2021.01.28
 높임말, 반말 변환 프로그램    
